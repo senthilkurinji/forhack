@@ -1,1 +1,1 @@
-echo 'backend server version 1.1'
+echo 'backend server version 1.2'
